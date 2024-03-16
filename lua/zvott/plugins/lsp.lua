@@ -64,6 +64,7 @@ return {
                     'tsserver',
                     'eslint',
                     'clangd',
+                    'pylsp',
                 },
 
                 handlers = {
